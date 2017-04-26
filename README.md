@@ -1,4 +1,4 @@
-#Eat code - Opérateur tenaire en PHP
+##Eat code - Opérateur tenaire en PHP
 
 Dans ce poste je vous montrerais comment simplifier l’écriture des vos contions. J’utiliserais PHP dans ce cas de figure.
 
