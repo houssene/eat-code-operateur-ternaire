@@ -1,9 +1,7 @@
 #Eat code - Opérateur tenaire en PHP
-
 Dans ce poste je vous montrerais comment simplifier l’écriture des vos contions. J’utiliserais PHP dans ce cas de figure.
 
 ###Condition simple
-
 En principe une condition en PHP comme dans tout autre langage de programmation débute par “if”
 
 ```` PHP 
